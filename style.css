@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    max-width: 100%;
+    
+}
+.cabecalho {
+    background-color: #BE89CB;
+    height: 103px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav {
+    margin-right: 50px;
+}
+.perfil {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: #EDEAEA; */
+    background-color: #EDEAEA;
+    height: 579px;
+    /* max-height: 100%; */
+    padding: 0 16px;
+}
+.minha-descricao {
+    margin-left: auto;
+    margin-right: auto;
+    width: 490px;
+    text-align: center;
+}
+img {
+    margin-top: 47px;
+    margin-bottom: 26px;
+}
+.formacao {
+    /* background-color: #e5e5e5; */
+    background-color: #e4dae9;
+    height: 514px;
+    
+}
+h2 {
+    color: #FF4DBC;
+    margin-left: 138px;
+    padding-top: 61px;
+
+}
+.primeira-formacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 54px;
+}
+.meunome {
+    color: #FF4DBC;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 50.4px */
+
+} .oquesou {
+    color: #C5C0C0;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+}
+.descricao-formacao {
+    width: 405px;
+    /* margin-bottom: 100px; */
+
+}
+.meus-projetos {
+    background-color: #EDEAEA;
+    height: 600px;
+}
+
+.rodape {
+    width: 1000px;
+    height: 198px;
+    background: #BE89CB;
+}
+.cabecalho, .perfil, .formacao, .meus-projetos, .rodape {
+    width: 100%
+}
+
+i {
+    display: flex;
+    color: #FFFFFF;
+    position: relative;
+    width: 24.5px;
+    height: 24.5px;
+    left: 39px;
+    top: 52px;
+
+}
+.redesociais {
+    display:flex;
+    width: 363.452px;
+    position: relative;
+    left: 60px;
+    top: 25px;
+    color: #FFFFFF;
+    
+}
+
+.list {
+    position: relative;
+}
